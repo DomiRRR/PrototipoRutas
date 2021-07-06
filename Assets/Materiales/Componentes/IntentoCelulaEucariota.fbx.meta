@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 96404866d05d73445a0112379ac25b41
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BezierCurve
+    100002: BezierCurve.001
+    100004: Empty
+    100006: Empty.001
+    100008: Empty.002
+    100010: Golgi
+    100012: //RootNode
+    100014: LaticeEmpty
+    100016: LaticeEmpty.001
+    100018: Liquido Interior
+    100020: Membrana Celular
+    100022: Mitocondria exterior
+    100024: Mitocondria exterior.001
+    100026: Mitocondria interior
+    100028: Mitocondria interior.001
+    100030: MLiquido Exterior
+    100032: MLiquido Exterior.001
+    100034: Nucleo
+    100036: Plasmatico BR
+    100038: Plasmatico BR.001
+    100040: Plasmatico BR.002
+    100042: Puntitos
+    100044: Puntitos.001
+    100046: Puntitos.002
+    100048: Puntitos.003
+    100050: Puntitos.004
+    100052: Puntitos.005
+    100054: Puntitos.006
+    100056: Puntitos.007
+    100058: Puntitos.008
+    100060: Puntitos.009
+    100062: Puntitos.010
+    100064: Puntitos.011
+    100066: Puntitos.012
+    100068: Puntitos.013
+    100070: Puntitos.014
+    100072: Puntitos.015
+    100074: RellenoDelNucleo
+    100076: Ribosomas
+    100078: Ribosomas.001
+    100080: Ribosomas.002
+    100082: Sphere.001
+    100084: Sphere.002
+    100086: Sphere.003
+    100088: Sphere.004
+    100090: Sphere.005
+    100092: Sphere.006
+    100094: Sphere.007
+    100096: Sphere.008
+    100098: Sphere.009
+    100100: Vacuola
+    100102: VacuolaAzul
+    100104: VacuolaRoja
+    400000: BezierCurve
+    400002: BezierCurve.001
+    400004: Empty
+    400006: Empty.001
+    400008: Empty.002
+    400010: Golgi
+    400012: //RootNode
+    400014: LaticeEmpty
+    400016: LaticeEmpty.001
+    400018: Liquido Interior
+    400020: Membrana Celular
+    400022: Mitocondria exterior
+    400024: Mitocondria exterior.001
+    400026: Mitocondria interior
+    400028: Mitocondria interior.001
+    400030: MLiquido Exterior
+    400032: MLiquido Exterior.001
+    400034: Nucleo
+    400036: Plasmatico BR
+    400038: Plasmatico BR.001
+    400040: Plasmatico BR.002
+    400042: Puntitos
+    400044: Puntitos.001
+    400046: Puntitos.002
+    400048: Puntitos.003
+    400050: Puntitos.004
+    400052: Puntitos.005
+    400054: Puntitos.006
+    400056: Puntitos.007
+    400058: Puntitos.008
+    400060: Puntitos.009
+    400062: Puntitos.010
+    400064: Puntitos.011
+    400066: Puntitos.012
+    400068: Puntitos.013
+    400070: Puntitos.014
+    400072: Puntitos.015
+    400074: RellenoDelNucleo
+    400076: Ribosomas
+    400078: Ribosomas.001
+    400080: Ribosomas.002
+    400082: Sphere.001
+    400084: Sphere.002
+    400086: Sphere.003
+    400088: Sphere.004
+    400090: Sphere.005
+    400092: Sphere.006
+    400094: Sphere.007
+    400096: Sphere.008
+    400098: Sphere.009
+    400100: Vacuola
+    400102: VacuolaAzul
+    400104: VacuolaRoja
+    2100000: Material.001
+    2100002: Material.002
+    2100004: Nucleo
+    2100006: MembranaNuclear
+    2100008: Membrana2
+    2100010: Material.004
+    2100012: MatRibosoma
+    2100014: Material.005
+    2100016: Material.007
+    2100018: Material.006
+    2100020: Material.008
+    2100022: Material.009
+    2100024: MatGolgi
+    2100026: MatVacuola.001
+    2100028: MatVacuola2
+    2100030: MatRibosoma.001
+    2300000: BezierCurve
+    2300002: BezierCurve.001
+    2300004: Golgi
+    2300006: Liquido Interior
+    2300008: Membrana Celular
+    2300010: Mitocondria exterior
+    2300012: Mitocondria exterior.001
+    2300014: Mitocondria interior
+    2300016: Mitocondria interior.001
+    2300018: MLiquido Exterior
+    2300020: MLiquido Exterior.001
+    2300022: Nucleo
+    2300024: Plasmatico BR
+    2300026: Plasmatico BR.001
+    2300028: Plasmatico BR.002
+    2300030: Puntitos
+    2300032: Puntitos.001
+    2300034: Puntitos.002
+    2300036: Puntitos.003
+    2300038: Puntitos.004
+    2300040: Puntitos.005
+    2300042: Puntitos.006
+    2300044: Puntitos.007
+    2300046: Puntitos.008
+    2300048: Puntitos.009
+    2300050: Puntitos.010
+    2300052: Puntitos.011
+    2300054: Puntitos.012
+    2300056: Puntitos.013
+    2300058: Puntitos.014
+    2300060: Puntitos.015
+    2300062: RellenoDelNucleo
+    2300064: Ribosomas
+    2300066: Ribosomas.001
+    2300068: Ribosomas.002
+    2300070: Sphere.001
+    2300072: Sphere.002
+    2300074: Sphere.003
+    2300076: Sphere.004
+    2300078: Sphere.005
+    2300080: Sphere.006
+    2300082: Sphere.007
+    2300084: Sphere.008
+    2300086: Sphere.009
+    2300088: Vacuola
+    2300090: VacuolaAzul
+    2300092: VacuolaRoja
+    3300000: BezierCurve
+    3300002: BezierCurve.001
+    3300004: Golgi
+    3300006: Liquido Interior
+    3300008: Membrana Celular
+    3300010: Mitocondria exterior
+    3300012: Mitocondria exterior.001
+    3300014: Mitocondria interior
+    3300016: Mitocondria interior.001
+    3300018: MLiquido Exterior
+    3300020: MLiquido Exterior.001
+    3300022: Nucleo
+    3300024: Plasmatico BR
+    3300026: Plasmatico BR.001
+    3300028: Plasmatico BR.002
+    3300030: Puntitos
+    3300032: Puntitos.001
+    3300034: Puntitos.002
+    3300036: Puntitos.003
+    3300038: Puntitos.004
+    3300040: Puntitos.005
+    3300042: Puntitos.006
+    3300044: Puntitos.007
+    3300046: Puntitos.008
+    3300048: Puntitos.009
+    3300050: Puntitos.010
+    3300052: Puntitos.011
+    3300054: Puntitos.012
+    3300056: Puntitos.013
+    3300058: Puntitos.014
+    3300060: Puntitos.015
+    3300062: RellenoDelNucleo
+    3300064: Ribosomas
+    3300066: Ribosomas.001
+    3300068: Ribosomas.002
+    3300070: Sphere.001
+    3300072: Sphere.002
+    3300074: Sphere.003
+    3300076: Sphere.004
+    3300078: Sphere.005
+    3300080: Sphere.006
+    3300082: Sphere.007
+    3300084: Sphere.008
+    3300086: Sphere.009
+    3300088: Vacuola
+    3300090: VacuolaAzul
+    3300092: VacuolaRoja
+    4300000: BezierCurve
+    4300002: BezierCurve.001
+    4300004: Nucleo
+    4300006: Membrana Celular
+    4300008: RellenoDelNucleo
+    4300010: Plasmatico BR
+    4300012: Ribosomas
+    4300014: Plasmatico BR.001
+    4300016: Ribosomas.001
+    4300018: Plasmatico BR.002
+    4300020: Ribosomas.002
+    4300022: Mitocondria interior
+    4300024: Liquido Interior
+    4300026: Mitocondria exterior
+    4300028: MLiquido Exterior
+    4300030: Puntitos
+    4300032: Puntitos.001
+    4300034: Puntitos.002
+    4300036: Puntitos.003
+    4300038: Puntitos.004
+    4300040: Puntitos.005
+    4300042: Puntitos.006
+    4300044: Puntitos.007
+    4300046: Mitocondria interior.001
+    4300048: Mitocondria exterior.001
+    4300050: MLiquido Exterior.001
+    4300052: Puntitos.008
+    4300054: Puntitos.009
+    4300056: Puntitos.010
+    4300058: Puntitos.011
+    4300060: Puntitos.012
+    4300062: Puntitos.013
+    4300064: Puntitos.014
+    4300066: Puntitos.015
+    4300068: Golgi
+    4300070: Vacuola
+    4300072: VacuolaAzul
+    4300074: VacuolaRoja
+    4300076: Sphere.001
+    4300078: Sphere.002
+    4300080: Sphere.003
+    4300082: Sphere.004
+    4300084: Sphere.005
+    4300086: Sphere.006
+    4300088: Sphere.007
+    4300090: Sphere.008
+    4300092: Sphere.009
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
